@@ -4,7 +4,7 @@ A simple, responsive expense tracker built with vanilla HTML, CSS, and JavaScrip
 Add income and expense transactions, track your balance in real time, and keep your data saved between visits using the browser's localStorage.
 
 ## Live Demo
-[Add your GitHub Pages link here once enabled]
+[https://jahnavijanu12.github.io/expense-tracker/](https://jahnavijanu12.github.io/expense-tracker/)
 
 ## Features
 - Add transactions with a description, amount, and date
